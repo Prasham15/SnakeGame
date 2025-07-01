@@ -42,6 +42,7 @@ A classic Snake game implementation that runs directly in your terminal using Py
    - Try to achieve the highest score possible!
 
 ## Game Elements
+![image](https://github.com/user-attachments/assets/8f1f0814-7da5-406f-9064-1e6f03543321)
 
 - `@` - Snake head
 - `#` - Snake body
